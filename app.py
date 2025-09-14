@@ -6,6 +6,7 @@ app = Flask(__name__)
 import joblib
 
 model = joblib.load("xgb_model.pkl")
+print("Model expects", model.n_features_in_, "features")
 
 
 @app.route("/predict", methods=["POST"])
