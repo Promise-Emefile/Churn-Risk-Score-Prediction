@@ -63,5 +63,5 @@
 
 ### Author
 ### Promise Emefile 
-### Data Scientist | Passionate about solving real-world problems with machine learning  
+### Data Analyst | Passionate about solving real-world problems with machine learning  
 ##### LinkedIn Profile:https://www.linkedin.com/in/promise-emefile
